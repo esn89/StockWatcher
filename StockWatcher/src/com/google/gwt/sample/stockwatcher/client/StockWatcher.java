@@ -29,6 +29,8 @@ import com.google.gwt.user.client.ui.VerticalPanel;
 
 public class StockWatcher implements EntryPoint {
 
+	// Trival change added by Devon
+	
 	private static final int REFRESH_INTERVAL = 5000;
 	private VerticalPanel mainPanel = new VerticalPanel();
 	private FlexTable stocksFlexTable = new FlexTable();
