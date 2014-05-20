@@ -31,7 +31,7 @@ public class StockWatcher implements EntryPoint {
 
 	// Trival change added by Devon
 	
-	private static final int REFRESH_INTERVAL = 5000;
+	private static final int REFRESH_INTERVALLLL = 5000;
 	private VerticalPanel mainPanel = new VerticalPanel();
 	private FlexTable stocksFlexTable = new FlexTable();
 	private HorizontalPanel addPanel = new HorizontalPanel();
